@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist @ <a href="https://www.kios.ucy.ac.cy/" target="_blank">KIOS CoE</a>, <a href="https://www.ucy.ac.cy/?lang=en">University of Cyprus</a>
+subtitle: Research Scientist @ <a href="https://www.kios.ucy.ac.cy/" target="_blank">KIOS CoE</a>
 
 profile:
   align: right
