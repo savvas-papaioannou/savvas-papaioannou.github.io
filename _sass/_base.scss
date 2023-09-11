@@ -55,7 +55,16 @@ table.table a {
 figure,
 img {
   max-width: 90vw;
+  box-shadow: none;
+  /* Browser specific implementations */
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
 }
+
+//
+//img  {
+//    box-shadow: none !important;
+//}
 
 blockquote {
   background: var(--global-bg-color);
@@ -127,6 +136,7 @@ blockquote {
       margin: 0;
     }
   }
+  
 }
 
 .profile.float-right {
@@ -139,7 +149,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 35%;
 
     .address {
       p {
@@ -587,7 +597,7 @@ footer.sticky-bottom {
       .preview {
         width: 100%;
         min-width: 80px;
-        max-width: 200px;
+        max-width: 300px;
       }
 
       .abbr {
@@ -632,6 +642,8 @@ footer.sticky-bottom {
         >em {
           border-bottom: 1px solid;
           font-style: normal;
+		  font-weight: bold;
+		  color: var(--global-theme-color);
         }
 
         >span.more-authors {
@@ -665,6 +677,7 @@ footer.sticky-bottom {
 
       .badges {
         padding-bottom: 0.5rem;
+
         span {
           display: inline-block;
           color: $black-color;
@@ -698,6 +711,7 @@ footer.sticky-bottom {
           font-size: 1em;
           line-height: 1.4em;
           padding: 10px;
+		  
         }
       }
 

@@ -2,25 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Scientist @ <a href="https://www.kios.ucy.ac.cy/" target="_blank">KIOS CoE</a>, <a href="https://www.ucy.ac.cy/?lang=en">University of Cyprus</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: im4.svg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: > 
+    <p>Work address:</p>
+    <p>1 Panepistimiou Avenue, 2109 Aglantzia,</p>
+    <p>Nicosia, Cyprus</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p style="text-align: justify;">
+I am a <b>Research Scientist</b> at the <b><a href="https://www.kios.ucy.ac.cy/" target="_blank">KIOS</a></b> Research and Innovation Centre of Excellence, University of Cyprus. I have obtained my DPhil (PhD) degree in <a href="https://www.cs.ox.ac.uk" target="_blank">Computer Science</a> from the <b><a href="https://www.ox.ac.uk" target="_blank">University of Oxford</a></b>, where I was a member of <a href="https://www.kellogg.ox.ac.uk" target="_blank">Kellogg College</a>. Prior to that, I completed my graduate studies at <b><a href="https://www.yale.edu" target="_blank">Yale University</a></b>, where I earned my MSc degree in <a href="https://seas.yale.edu/departments/electrical-engineering" target="_blank">Electrical Engineering</a>. I received my BSc degree in Electronic and Computer Engineering from the <b><a href="https://www.ece.tuc.gr/en/home" target="_blank">Technical University of Crete.</a></b>
+</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p style="text-align: justify;">
+My <b>research endeavors</b> are centered around the integration of <a href="https://en.wikipedia.org/wiki/Estimation_theory" target="_blank">estimation</a>, <a href="https://en.wikipedia.org/wiki/Decision_theory" target="_blank">decision</a>, and <a href="https://en.wikipedia.org/wiki/Optimal_control" target="_blank">control</a> techniques for the inception of intelligent autonomous systems. Recently, my research is focused on building the necessary mathematical frameworks for the design of intelligent multi-agent <a href="https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle" target="_blank">UAV</a> systems that can be utilized in <a href="https://www.undrr.org/gar" target="_blank">disaster response</a> missions. 
+</p>
+
+
+**Fascinated about:** _Multi-target Tracking_, _State Estimation_, _Trajectory Planning_, _Mathematical Programming and Optimization_, _Optimal and Model Predictive Control_, and _Artificial Intelligence_. 
+
+
+
