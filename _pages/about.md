@@ -9,9 +9,9 @@ profile:
   image: im4.svg
   image_circular: false # crops the image to make it circular
   address: > 
-    <p>Work address:</p>
+    <!-- <p>Work address:</p>
     <p>1 Panepistimiou Avenue, 2109 Aglantzia,</p>
-    <p>Nicosia, Cyprus</p>
+    <p>Nicosia, Cyprus</p> -->
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
