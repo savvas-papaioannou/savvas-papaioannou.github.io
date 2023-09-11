@@ -16,7 +16,7 @@ Funded projects that I was involved with:
 
 - **Description:** Conduct cutting-edge research in the field of autonomous multi-agent systems and artificial intelligence to revamp search-and-rescue operations with a fleet of autonomous flying robots.
 - **Funded by:** European Regional Development Fund and the Republic of Cyprus through the Research and Innovation Foundation’s RESTART 2016-2020 Programme for Research, Technological Development and Innovation - grant agreement EXCELLENCE/0421/0586 (GLIMPSE).
-- **My role:** Lead proposal writing and preparation, lead project implementation.
+- **My role:** Project inception, lead proposal writing and preparation, lead project implementation.
 - **Duration:** 24 months (2022-2024)
 - **Website:** [GLIMPSE](https://www.kios.ucy.ac.cy/glimpse/)
 
