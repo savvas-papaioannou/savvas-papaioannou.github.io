@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist @ <a href="https://www.kios.ucy.ac.cy/" target="_blank">KIOS CoE</a>
+subtitle: <b>Research Scientist</b> @ <b><a href="https://www.kios.ucy.ac.cy/" target="_blank">KIOS CoE</a></b>
 
 profile:
   align: right
@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 <p style="text-align: justify;">
-I am a <b>Research Scientist</b> at the <b><a href="https://www.kios.ucy.ac.cy/" target="_blank">KIOS</a></b> Research and Innovation Centre of Excellence, University of Cyprus. I have obtained my DPhil (PhD) degree in <a href="https://www.cs.ox.ac.uk" target="_blank">Computer Science</a> from the <b><a href="https://www.ox.ac.uk" target="_blank">University of Oxford</a></b>, where I was a member of <a href="https://www.kellogg.ox.ac.uk" target="_blank">Kellogg College</a>. Prior to that, I completed my graduate studies at <b><a href="https://www.yale.edu" target="_blank">Yale University</a></b>, where I earned my MSc degree in <a href="https://seas.yale.edu/departments/electrical-engineering" target="_blank">Electrical Engineering</a>. I received my BSc degree in Electronic and Computer Engineering from the <b><a href="https://www.ece.tuc.gr/en/home" target="_blank">Technical University of Crete.</a></b>
+I am a Research Scientist at the <b><a href="https://www.kios.ucy.ac.cy/" target="_blank">KIOS</a></b> Research and Innovation Centre of Excellence, <a href="https://www.ucy.ac.cy/?lang=en" target="_blank">University of Cyprus</a>. I have obtained my DPhil (PhD) degree in <a href="https://www.cs.ox.ac.uk" target="_blank">Computer Science</a> from the <b><a href="https://www.ox.ac.uk" target="_blank">University of Oxford</a></b>, where I was a member of <a href="https://www.kellogg.ox.ac.uk" target="_blank">Kellogg College</a>. Prior to that, I completed my graduate studies at <b><a href="https://www.yale.edu" target="_blank">Yale University</a></b>, where I earned my MSc degree in <a href="https://seas.yale.edu/departments/electrical-engineering" target="_blank">Electrical Engineering</a>. I received my BSc degree in Electronic and Computer Engineering from the <b><a href="https://www.ece.tuc.gr/en/home" target="_blank">Technical University of Crete.</a></b>
 </p>
 
 <p style="text-align: justify;">
