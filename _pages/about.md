@@ -25,7 +25,7 @@ I am a Research Scientist at the <b><a href="https://www.kios.ucy.ac.cy/" target
 </p>
 
 <p style="text-align: justify;">
-My <b>research endeavors</b> are centered around the inception of novel <a href="https://en.wikipedia.org/wiki/Estimation_theory" target="_blank">estimation</a>, <a href="https://en.wikipedia.org/wiki/Decision_theory" target="_blank">decision</a>, and <a href="https://en.wikipedia.org/wiki/Optimal_control" target="_blank">control</a> techniques to enable the design of intelligent autonomous systems. Recently, my research is focused on building the necessary mathematical frameworks for the design of intelligent multi-agent <a href="https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle" target="_blank">UAV</a> systems that can be utilized in <a href="https://www.undrr.org/gar" target="_blank">disaster response</a> missions. 
+My <b>research endeavors</b> are centered around the inception of novel <a href="https://en.wikipedia.org/wiki/Estimation_theory" target="_blank">estimation</a>, <a href="https://en.wikipedia.org/wiki/Decision_theory" target="_blank">decision</a>, and <a href="https://en.wikipedia.org/wiki/Optimal_control" target="_blank">control</a> techniques that would enable the design of intelligent autonomous systems. Recently, my research is focused on building the necessary mathematical frameworks for the design of intelligent multi-agent <a href="https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle" target="_blank">UAV</a> systems that can be utilized in <a href="https://www.undrr.org/gar" target="_blank">disaster response</a> missions. 
 </p>
 
 
