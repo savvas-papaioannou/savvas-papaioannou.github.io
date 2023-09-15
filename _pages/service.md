@@ -7,7 +7,7 @@ nav_order: 3
 description:
 ---
 
-I was in the organization committee of various international conferences and workshops including the [ECC 2018](https://ieeexplore.ieee.org/xpl/conhome/8496738/proceeding), [SAFEPROCESS 2022](https://www.sciencedirect.com/journal/ifac-papersonline/vol/55/issue/6), and [MED 2023](https://ieeexplore.ieee.org/xpl/conhome/10185661/proceeding). 
+I was member of the organization committees of various international conferences and workshops including the [ECC 2018](https://ieeexplore.ieee.org/xpl/conhome/8496738/proceeding), [SAFEPROCESS 2022](https://www.sciencedirect.com/journal/ifac-papersonline/vol/55/issue/6), and [MED 2023](https://ieeexplore.ieee.org/xpl/conhome/10185661/proceeding). 
 
 
 <h4>Organization of International Conferences</h4>
