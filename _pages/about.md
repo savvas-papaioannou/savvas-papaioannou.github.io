@@ -29,7 +29,7 @@ My <b>research endeavors</b> are centered around the development of innovative <
 </p>
 
 
-**Fascinated about:** _Multi-target Tracking_, _State Estimation_, _Trajectory Planning_, _Mathematical Programming and Optimization_, _Optimal and Model Predictive Control_, and _Artificial Intelligence_. 
+**Fascinated about:** _Multi-target Tracking_, _State Estimation_, _Trajectory Planning_, _Mathematical Programming and Optimization_, _Optimal and Model Predictive Control_, _and_ _Artificial Intelligence_. 
 
 
 
