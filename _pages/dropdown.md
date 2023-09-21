@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: awards
       permalink: /awards
+    - title: divider
+    - title: contact
+      permalink: /contact
 ---
