@@ -20,7 +20,7 @@ description:
 
 <h4>IEEE ESTIMedia, Finland</h4>
 - **Year**: 2012
-- **Description**: Best Paper Award at the 10th IEEE Symposium on Embedded Systems for Real-time Multimedia (ESTIMedia) for the paper “A novel low-power embedded object recognition system working at multi-frames per second”, by Antonis, Nikitakis, **Savvas Papaioannou** and Ioannis Papaefstathiou.
+- **Description**: Best Paper Award at the 10th IEEE Symposium on Embedded Systems for Real-time Multimedia (ESTIMedia) for the paper “A novel low-power embedded object recognition system working at multi-frames per second”, by Antonis, Nikitakis, Savvas Papaioannou and Ioannis Papaefstathiou.
 
 
 <h4>Yale University, USA</h4>
