@@ -578,9 +578,10 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: $blue1;
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
+	padding-right: -3rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
     text-align: right;
@@ -589,6 +590,7 @@ footer.sticky-bottom {
   ol.bibliography {
     list-style: none;
     padding: 0;
+	padding-left: 2rem;
     margin-top: 0;
 
     li {
