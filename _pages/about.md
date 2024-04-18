@@ -6,7 +6,7 @@ subtitle: <b>Senior Research Scientist</b> @ <b><a href="https://www.kios.ucy.ac
 
 profile:
   align: right
-  image: im.png
+  image: im_l.png
   image_circular: false # crops the image to make it circular
   address: > 
     <!-- <p>Work address:</p>
