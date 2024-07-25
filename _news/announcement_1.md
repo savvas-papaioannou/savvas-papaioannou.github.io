@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-04-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper "_[Unscented Optimal Control for 3D Coverage Planning with an Autonomous UAV Agent]({{ site.baseurl }}{% link /assets/pdf/icuas2023.pdf %})_ " has been accepted at the 2023 International Conference on Unmanned Aircraft Systems (**ICUAS**) !
