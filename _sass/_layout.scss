@@ -35,8 +35,21 @@ body.sticky-bottom-footer {
 .profile {
   img {
     width: 100%;
+	box-shadow: none;
+    /* Browser specific implementations */
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
   }
 }
+
+//figure,
+//img {
+//  max-width: 80%;
+//  box-shadow: none;
+//  /* Browser specific implementations */
+//  -moz-box-shadow: none;
+//  -webkit-box-shadow: none;
+//}
 
 // TODO: redefine content layout.
 

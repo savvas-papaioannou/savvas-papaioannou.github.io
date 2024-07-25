@@ -55,6 +55,16 @@ table.table a {
   }
 }
 
+figure,
+img {
+  max-width: 90vw;
+  box-shadow: none;
+  /* Browser specific implementations */
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
@@ -138,6 +148,17 @@ ul.task-list input[type="checkbox"] {
   vertical-align: middle;
 }
 
+
+.profile {
+  img {
+    width: 100%;
+	box-shadow: none;
+    /* Browser specific implementations */
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+  }
+}
+
 // Math
 
 .equation {
@@ -207,7 +228,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 40%;
 
     .address {
       p {
@@ -646,9 +667,17 @@ footer.sticky-bottom {
 
 // Publications
 
+//@media (max-width: 800px) {
+//  .publications {
+//    min-width: 100%;
+//  }
+//}
+
+
 .publications {
   margin-top: 2rem;
-
+  
+  
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -666,7 +695,7 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: var(--global-theme-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
@@ -724,6 +753,8 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
+		  font-weight: bold;
+		  color: var(--global-theme-color);
         }
 
         > span.more-authors {
