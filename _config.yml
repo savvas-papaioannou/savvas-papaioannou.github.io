@@ -10,7 +10,7 @@ email: papaioannou.savvas@ucy.ac.cy
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Research Scientist at KIOS CoE, University of Cyprus
 footer_text: >
-keywords: # add your own keywords or leave empty
+keywords: Autonomous-systems, Inelligent-agents, UAVs, Control, Optimization, AI # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -109,7 +109,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  papaioannou.savvas@ucy.ac.cy
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
