@@ -13,39 +13,45 @@ description:
 
 {:style="text-align:center;"}
 ![CDC 2023 Award](/assets/img/cdc_prize.jpg){:width="600"}
+<br><br>
 
 <h4>Technical Chamber of Greece (TEE-TCG), GR</h4>
 - **Year**: 2017
-- **Description**: **Distinction** for my outstanding academic achievement. This prestigious national award is bestowed by the Technical Chamber of Greece upon top graduates from Polytechnic Universities in Greece, recognizing exceptional academic performance.
-
+- **Description**: Distinction for my outstanding academic achievement. This prestigious national award is bestowed by the Technical Chamber of Greece upon top graduates from Polytechnic Universities in Greece, recognizing exceptional academic performance.
+<br><br>
 
 <h4>University of Oxford, UK</h4>
 - **Year**: 2013
 - **Description**: Postgraduate Studentship (DPhil Scholarship funded by Laing O’Rourke).
-
+<br><br>
 
 <h4>IEEE ESTIMedia, Finland</h4>
 - **Year**: 2012
-- **Description**: **Best Paper Award** at the 10th IEEE Symposium on Embedded Systems for Real-time Multimedia (ESTIMedia) for the paper “A novel low-power embedded object recognition system working at multi-frames per second”, by Antonis, Nikitakis, Savvas Papaioannou and Ioannis Papaefstathiou.
+- **Description**: Best Paper Award at the 10th IEEE Symposium on Embedded Systems for Real-time Multimedia (ESTIMedia) for the paper “A novel low-power embedded object recognition system working at multi-frames per second”, by Antonis, Nikitakis, Savvas Papaioannou and Ioannis Papaefstathiou.
 
+{:style="text-align:center;"}
+![estiMedia](/assets/pdf/bestPaper.pdf){:width="500"}
+<br><br>
 
 <h4>Yale University, USA</h4>
 - **Year**: 2011
 - **Description**: Graduate Student Fellowship (PhD Scholarship)
-
+<br><br>
 
 <h4>Technical University of Crete, Greece</h4>
 - **Year**: 2011
-- **Description**: **Distinction** awarded for graduating at the top of my class with a GPA of 9.14 (out of 10).
+- **Description**: Distinction awarded for graduating at the top of my class with a GPA of 9.14 (out of 10).
+<br><br>
 
 <h4>Technical University of Crete, Greece</h4>
 - **Year**: 2006, 2007, 2008, 2009, 2011
-- **Description**: **Honorary Fellowship** awarded for achieving the highest academic performance (ranking 1st) in my class over the annual period.
-
+- **Description**: Distinction awarded for achieving the highest academic performance (ranking 1st) in my class over the annual period.
+<br><br>
 
 <h4>Greek National Scholarship Foundation (I.K.Y), Greece</h4>
 - **Year**: 2006, 2007, 2008
-- **Description**: **Distinction** awarded for my academic performance i.e., ranking 1st in my class.
+- **Description**: Distinction awarded for my academic performance i.e., ranking 1st in my class.
+<br><br>
 
 
 
