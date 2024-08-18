@@ -14,7 +14,7 @@ description:
 
 {:style="text-align:center;"}
 ![Phileleftheros](/assets/img/Phileleftheros_1.jpg){:width="600"}
-<br><br>
+<hr>
 
 
 <h4>UCY Press Release</h4>
@@ -23,7 +23,7 @@ description:
 
 {:style="text-align:center;"}
 ![ucycaric](/assets/pdf/caric_ucy.pdf){:width="600"}
-<br><br>
+<hr>
 
 
 
