@@ -26,7 +26,7 @@ description:
 
 
 
-<h4>Understanding Energy Consumption and Identifying Anomalie</h4>
+<h4>Understanding Energy Consumption and Identifying Anomalies</h4>
 - **Date**: April 2012
 - **Issue**: Vol. 85 No. 3
 - **Description**: My research on understanding the energy consumption behavior of large buildings, identifying energy consumption patterns, and detecting novel events as part of the Intelligent Buildings project is featured in the <b><a href="https://www.yalescientific.org" target="_blank">Yale Scientific</a></b> magazine. Under the guidance of my supervisor, Prof. Andreas Savvides, I pioneered the creation of novel machine-learning techniques that learn a building's consumption behavior, adapt to changes in consumption patterns, and pinpoint anomalies. I developed a learning architecture that closely resembles today's modern Autoencoder Artificial Neural Networks (although this was conceived before the deep-learning and AI boom).
