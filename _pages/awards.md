@@ -20,7 +20,7 @@ description:
 - **Description**: Distinction for my outstanding academic achievement. This prestigious national award is bestowed by the Technical Chamber of Greece upon top graduates from Polytechnic Universities in Greece, recognizing exceptional academic performance.
 
 {:style="text-align:center;"}
-![TEE Award](/assets/img/tee.jpg){:width="400"}
+![TEE Award](/assets/img/tee.jpg){:width="500"}
 <hr>
 
 <h4>University of Oxford, UK</h4>
