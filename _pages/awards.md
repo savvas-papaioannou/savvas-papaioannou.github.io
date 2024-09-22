@@ -18,6 +18,9 @@ description:
 <h4>Technical Chamber of Greece (TEE-TCG), GR</h4>
 - **Year**: 2017
 - **Description**: Distinction for my outstanding academic achievement. This prestigious national award is bestowed by the Technical Chamber of Greece upon top graduates from Polytechnic Universities in Greece, recognizing exceptional academic performance.
+
+{:style="text-align:center;"}
+![TEE Award](/assets/img/tee.jpg){:width="400"}
 <hr>
 
 <h4>University of Oxford, UK</h4>
