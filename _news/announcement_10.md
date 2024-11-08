@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2024-08-26
+date: 2024-10-14
 inline: true
 related_posts: false
 ---
 
-Our paper  "_[Probabilistically Robust Trajectory Planning of Multiple Aerial Agents]({{ site.baseurl }}{% link /assets/pdf/icarcv24.pdf %})_ " has been accepted at the 18th International Conference on Control, Automation, Robotics and Vision (<b>ICARCV 2024</b>) !
+We have won the **Second Prize** in the <a href="https://www.iros2024-cartin.com/index.html" target="_blank">"Multi-Robot Perception and Navigation Challenges in Logistics and Inspection Tasks"</a> Competition, held as part of the prestigious **2024 IEEE/RSJ International Conference on Intelligent Robots and Systems** <b><a href="http://iros2024-abudhabi.org" target="_blank">(IROS 2024)</a></b> in Abu Dhabi, from October 14 to 18, 2024.
+
+
