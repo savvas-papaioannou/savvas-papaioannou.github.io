@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-**Our paper "_[Synergising Human-Like Responses and Machine Intelligence for Planning in Disaster Response]({{ site.baseurl }}{% link /assets/pdf/wcci2024.pdf %})_ " has been accepted at the 2024 IEEE World Congress on Computational Intelligence (<b>WCCI</b>) -  2024 International Joint Conference on Neural Networks (<b>IJCNN</b>) !**
+*Our paper "**[Synergising Human-Like Responses and Machine Intelligence for Planning in Disaster Response]({{ site.baseurl }}{% link /assets/pdf/wcci2024.pdf %})** " has been accepted at the 2024 IEEE World Congress on Computational Intelligence (<b>WCCI</b>) -  2024 International Joint Conference on Neural Networks (<b>IJCNN</b>) !*
 
 
