@@ -294,18 +294,37 @@ pdf = {tecs2013.pdf}
 # ------------------------------------------- CONFERENCES --------------------------------
 
 
+# C24
+@INPROCEEDINGS{10178187,
+  author={Papaioannou, Savvas and Kolios, Panayiotis and Panayiotou, Christos G and Polycarpou, Marios M},
+  booktitle={2025 European Control Conference (ECC)}, 
+  title={Data-Driven Predictive Planning and Control for Aerial 3D Inspection with Back-face Elimination}, 
+  abstract = {Automated inspection with Unmanned Aerial Systems (UASs) is a transformative capability set to revolutionize various application domains. However, this task is inherently complex, as it demands the seamless integration of perception, planning, and control which existing approaches often treat separately. Moreover, it requires accurate long-horizon planning to predict action sequences, in contrast to many current techniques, which tend to be myopic. To overcome these limitations, we propose a 3D inspection approach that unifies perception, planning, and control within a single data-driven predictive control framework. Unlike traditional methods that rely on known UAS dynamic models, our approach requires only input-output data, making it easily applicable to off-the-shelf black-box UASs. Our method incorporates back-face elimination, a visibility determination technique from 3D computer graphics, directly into the control loop, thereby enabling the online generation of accurate, long-horizon 3D inspection trajectories.},
+  year={2025},
+  volume={},
+  number={},
+  pages={},
+  doi={},
+  arxiv ={},
+  pdf = {ECC2025_1.pdf},
+  preview={ECC2025_1.png},
+  bibtex_show={true},
+  html = {}
+  }
+
+
 # C23
 @INPROCEEDINGS{icarcv2024,
   author={Vitale, Christian and Papaioannou, Savvas and Kolios, Panayiotis and Ellinas, Georgios},
-  booktitle={18th International Conference on Control, Automation, Robotics and Vision (ICARCV)}, 
+  booktitle={2024 18th International Conference on Control, Automation, Robotics and Vision (ICARCV)}, 
   title={Probabilistically Robust Trajectory Planning of Multiple Aerial Agents}, 
   abstract = {Current research on robust trajectory planning for autonomous agents aims to mitigate uncertainties arising from disturbances and modeling errors while ensuring guaranteed safety. Existing methods primarily utilize stochastic optimal control techniques with chance constraints to maintain a minimum distance among agents with a guaranteed probability. However, these approaches face challenges, such as the use of simplifying assumptions that result in linear system models or Gaussian disturbances, which limit their practicality in complex realistic scenarios. To address these limitations, this work introduces a novel probabilistically robust distributed controller enabling autonomous agents to plan safe trajectories, even under non-Gaussian uncertainty and nonlinear systems. Leveraging exact uncertainty propagation techniques based on mixed-trigonometric-polynomial moment propagation, this method transforms non-Gaussian chance constraints into deterministic ones, seamlessly integrating them into a distributed model predictive control framework solvable with standard optimization tools. Simulation results demonstrate the effectiveness of this technique, highlighting its ability to consistently handle various types of uncertainty, ensuring robust and accurate path planning in complex scenarios.},
   year={2024},
   volume={},
   number={},
-  pages={},
-  doi={},
-  
+  pages={852-859},
+  doi={10.1109/ICARCV63323.2024.10821544},
+  html = {https://ieeexplore.ieee.org/abstract/document/10821544},
   pdf = {icarcv24.pdf},
   preview={icarcv24.png},
   arxiv = {2409.12718},
