@@ -7,7 +7,7 @@ subtitle: <b>Senior Research Scientist</b> @ <b><a href="https://www.kios.ucy.ac
 profile:
   align: right
   image: IMG_3019.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: > 
     <!-- <p>Work address:</p>
     <p>1 Panepistimiou Avenue, 2109 Aglantzia,</p>
