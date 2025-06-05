@@ -12,6 +12,7 @@ I was member of the organization committees of various international conferences
 
 <h4>Organization of International Conferences</h4>
 
+- `SysTol 2025`: Webpage Chair and local arrangements for the 6th International Conference on Control and Fault-Tolerant Systems (SysTol), 6 - 8 October 2025 - Ayia Napa, Cyprus.
 - `MED 2023`: Publicity Chair and local arrangements for the 31st Mediterranean Conference on Control and Automation (MED ’23), June 26 - 29, 2023, Limassol, Cyprus.
 - `SAFEPROCESS 2022`: Webpage Chair and local arrangements for the 11th IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes, (SAFEPROCESS 2022), 7-10 June, Pafos, Cyprus, 2022.
 - `ECC 2018`: Webpage Chair and local arrangements for the 16th European Control Conference (ECC), 12-15 June, Limassol, Cyprus, 2018.
@@ -58,6 +59,9 @@ Moreover, I regularly serve as a Reviewer for the following Journals and Confere
 - `20th Mediterranean Communication and Computer Networking Conference (MedComNet), 2022 (TPC member)`.
 - `2nd IEEE Intl. Workshop on Algorithms for Indoor Architectures and Systems (ALIAS), 2022 (TPC member)`.
 - `5th IEEE Intl. Workshop on Wireless Sensors and Drones in Internet of Things (Wi-DroIT), 2023 (TPC member)`.
+- `Design, Automation and Test in Europe Conference (DATE), 2025 (TPC member)`.
+- `International Conference on Sensing, Communication, and Networking (SECON), 2024 (TPC member)`.
+- `International Joint Conference on Neural Networks (IJCNN), 2024 (TPC member)`.
 
 
 
