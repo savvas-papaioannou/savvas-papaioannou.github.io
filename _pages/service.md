@@ -39,12 +39,14 @@ Moreover, I regularly serve as a Reviewer for the following Journals and Confere
 - `IEEE Transactions on Intelligent Transportation Systems (T-ITS)`. 
 - `IEEE Journal on Selected Areas in Communications (JSAC)`.
 - `ACM Transactions on Sensor Networks (TOSN)`.
+- `ACM Computing Surveys (CSUR)`.
 - `IEEE Sensors Journal`.
 - `IEEE Sensors Letters`.
 - `Elsevier European Journal of Control (EJCON)`.
 - `Journal of Intelligent and Robotic Systems (JINT)`.
 - `Journal of Optimal Control, Applications and Methods`.
 - `SpringerNature Computer Science`.
+- `Annual Reviews in Control, Elsevier`.
 
 
 
